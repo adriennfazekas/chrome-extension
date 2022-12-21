@@ -18,7 +18,7 @@ button {
     padding: 10px 20px;
     font-weight: bold;
 }
-#input-btn {
+#input-btn, #savetab-btn {
     background-color: #5f9341;
     color: white;
     
